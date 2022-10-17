@@ -5,7 +5,13 @@
 - El periodo de mayor crecimiento ocurre entre el segundo trimestre de 2020 y el segundo de 2021 [^3]. 
 - El 54% de accesos se concentra en 3 departamentos y sólo Bogotá representa el 26% accesos en el país [^4] [^5]. 
 - Esta concentración se ha reducido levemente en los últimos 5 años [^5], especialmente gracias al mayor crecimiento en departamentos de tamaño intermedio desde el inicio de la pandemia [^6] [^7].
-- El 74% de los accesos son provistos por 3 empresas y sólo COMCEL S.A. sirve 38% de los accesos en el país. [^8] [^9]
+- El 74% de los accesos son provistos por 3 empresas, el 90% por 12 y sólo COMCEL S.A. sirve 38% de los accesos en el país. [^8] [^9] [^11]. 
+- El nivel de concentración ha aumentado en los últimos 5 años [^10], que junto a la presencia de grandes adquisiciones y fusiones llevan a entender que la industria se encuentra en un periodo de consolidación.
+- Más del 90% de accesos se utilizan en residencias. [^12] [^13]
+- En los últimos 5 años se ha reducido la participación de usuarios corporativos de 8.8% a 7.6% de la cartera global de accesos, mientras que la participación de usuarios residenciales en viviendas sin estratificar, usualmente asentamientos informales, ha crecido de 0.5% a 1.4%. [^12] [^13] 
+- En el mismo periodo, la participación de accesos destinados a usuarios en viviendas de estratos bajos (estrato 1, 2 y 3) ha crecido de 73.4% a 74.4%, mientras que el porcentaje de accesos en viviendas de estratos altos (estrato 4, 5 y 6) se ha reducido de 17.3% a 16.5% [^13]. Estas tendencias sugieren avances en el cierre de brechas de acceso a internet fijo. Para mejorar este argumento es necesario comparar este avance con el inventario total de viviendas por estrato en Colombia.
+- La mediana de la velocidad efectiva de bajada es 20 Mbps [^14] y de subida 6 Mbps [^15]. Estas velocidades han mejorado en los últimos 5 años desde 5 y 1 Mbps respectivamente. 
+- Estas mejoras son bastante desiguales entre las conexiones residenciales destinadas a los estratos con más y menos carencias. El promedio de la mejora en la velocidad efectiva de bajada entre residencias de estratos bajos (1, 2 y 3) es 8.7 Mbps, mientras que en aquellas de estratos altos (4, 5 y 6) es 57.6 Mbps [^18]. Estas tendencias indican que mientras se reduce la desigualdad en acceso a internet fijo, se profundiza otra desigualdad en acceso a internet de alta velocidad.
 
 
 
@@ -18,4 +24,12 @@
 [^7]: [Crecimiento de accesos a internet fijo por departamento](data/internetfijo_accesos_por_departamento_crecimiento.csv) entre el segundo trimestre de 2017 y el segundo trimestre de 2022. Elaborado desde [^1].
 [^8]: [Número de accesos a internet fijo por empresa y trimestre](data/internetfijo_accesos_por_empresa.csv). Elaborado desde [^1].
 [^9]: [Porcentaje de accesos a internet fijo por empresa en 2022](data/internetfijo_accesos_por_empresa_concentracion.csv). Elaborado desde [^1]. 
-
+[^10]: [Porcentaje de accesos a internet fijo por empresa en 2017](data/internetfijo_accesos_por_empresa_concentracion_2017.csv). Elaborado desde [^1]. 
+[^11]: [Número de accesos a internet fijo por empresa y trimestre entre las 12 empresas que proveen el 90% de accesos](data/internetfijo_accesos_por_empresa_top12.csv) al final del segundo trimestre de 2022. Elaborado desde [^1].
+[^12]: [Número de accesos a internet fijo por segmento de usuarios y trimestre](data/internetfijo_accesos_por_segmento.csv). Las categorías residenciales corresponden a la [clasificación de estratos socioeconómicos](https://es.wikipedia.org/wiki/Estratificaci%C3%B3n_socioecon%C3%B3mica_en_Colombia), donde 1 corresponde al estrato con más carencias y 6 al estrato con menos. Viviendas sin estratificar son usualmente asentamientos irregulares. Elaborado desde [^1].
+[^13]: [Porcentaje de accesos a internet fijo por segmento de usuarios y trimestre](data/internetfijo_accesos_por_segmento_porcentaje.csv). Elaborado desde [^1].
+[^14]: [Velocidad efectiva de bajada de internet fijo por trimestre](data/internetfijo_velocidadefectiva_down.csv), medida en Megabits por segundo. Elaborado desde [^1].
+[^15]: [Velocidad efectiva de subida de internet fijo por trimestre](data/internetfijo_velocidadefectiva_up.csv), medida en Megabits por segundo. Elaborado desde [^1].
+[^16]: [Mediana de la velocidad efectiva de bajada de internet fijo por segmento y trimestre](data/internetfijo_velocidadefectiva_down_segmentos.csv), medida en Megabits por segundo. Elaborado desde [^1].
+[^17]: [Mediana de la velocidad efectiva de subida de internet fijo por segmento y trimestre](data/internetfijo_velocidadefectiva_up_segmentos.csv), medida en Megabits por segundo. Elaborado desde [^1].
+[^18]: [Diferencia de la mediana de velocidad efectiva de subida y bajada](data/internetfijo_velocidadefectiva_segmentos_cambio_2017_2022.csv) entre el segundo trimestre de 2017 y el segundo trimestre de 2022, por segmento de usuarios, medida en Megabits por segundo. Elaborado desde [^1].
