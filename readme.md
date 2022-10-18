@@ -16,6 +16,11 @@
 - Los ingresos de empresas por internet fijo durante el segundo trimestre de 2022 suman 1.62 Trillones de pesos colombianos (COP), o 62% más de lo que representaban 5 años atrás en el segundo trimestre de 2017. El ingreso medio por acceso es 191,007 COP, que representa 18% más del ingreso medio 5 años atrás. [^21]
 - Entre 2018 y 2022, el número de municipios con internet fijo en más de 20% de los hogares crece de 195 a 295, mientras que el número con 5 a 20% se contrae de 476 a 374, y el número con menos de 5% se mantiene estable en 449 y 451 municipios respectivamente. Esta tendencia sugiere un avance importante en acceso a internet fijo dentro de municipios de tamaño intermedio, pero un estancamiento en municipios de menor penetración. [^22] [^25] 
 
+## Internet móvil
+
+- En junio de 2022 existían 37,932,392 accesos a internet móvil, de los cuales 53.2% correspondían a abonados por demanda y el resto a suscriptores por cargo fijo. Esta distribución se mantiene estable desde 2017. [^28]
+- En los últimos 10 años, el número de accesos se ha multiplicado por 10 desde 3,720,527 en enero de 2012. Este crecimiento es lineal y mucho más variable entre abonados a internet por demanda. [^28]
+
 
 
 [^1]: Accesos de Internet Fijo desde 2017-2T. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-e-ingresos-de-internet-fijo/resource/540ea080-bf16-4d63-911f-3b4814e8e4f1#{}). Accedido el 15 de Octubre de 2022. 
@@ -43,4 +48,7 @@
 [^23]: Ingresos de Internet Fijo. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-e-ingresos-de-internet-fijo/resource/d917a68d-9cb9-4257-82f1-74115a4cf629). Accedido el 15 de Octubre de 2022.
 [^24]: Retroproyecciones y proyecciones de población total municipal a 31 de diciembre. Un dataset construído por el Departamento Administrativo Nacional de Estadística (DANE) y publicado en [dane.gov.co](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion). Accedido el 15 de Octubre de 2022.
 [^25]: [Número de municipios en distintos rangos de porcentaje de penetración por trimestre](data/internetfijo_municipios_por_rango_de_penetracion.csv). Elaborado desde [^1] y [^23]. 
+[^26]: Abonados de internet móvil por demanda. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/abonados-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-demanda/resource/3df620f6-deec-42a0-a6af). Accedido el 17 de Octubre de 2022. 
+[^27]:  Suscriptores de Internet Móvil de Cargo Fijo. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-cargo-fijo/resource/47d07e20-b257-4aaf). Accedido el 17 de Octubre de 2022.
+[^28]: [Número de accesos a internet móvil](data/internetmovil_accesos.csv) entre abonados y suscriptores por mes, desde enero de 2012 a junio de 2022. Elaborado desde [^26] y [^27].
 
