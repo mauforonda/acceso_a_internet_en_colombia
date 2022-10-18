@@ -1,4 +1,4 @@
-## Internet Fijo
+## Internet fijo
 
 - Al final del segundo trimestre de 2022, existían 8,482,581 accesos a internet fijo en Colombia [^2]. 
 - En los últimos 5 años se suman 2,288,910 nuevos accesos, que representan un crecimiento del 37% [^3]. 
@@ -20,6 +20,7 @@
 
 - En junio de 2022 existían 37,932,392 accesos a internet móvil, de los cuales 53.2% correspondían a abonados por demanda y el resto a suscriptores por cargo fijo. Esta distribución se mantiene estable desde 2017. [^28]
 - En los últimos 10 años, el número de accesos se ha multiplicado por 10 desde 3,720,527 en enero de 2012. Este crecimiento es lineal y mucho más variable entre abonados a internet por demanda. [^28]
+- En junio de 2022 COMCEL S.A. (Claro) servía a 50.2% de los suscriptores de cargo fijo y 54.8% de los abonados de internet móvil por demanda. Entre 2012 y 2018, su participación en el mercado de internet móvil por demanda promediaba 66.5% y después baja a un promedio de 56%. En el mercado de internet móvil por cargo fijo, COMCEL S.A. mantiene un participación promedio de 53.6% desde 2014, que se reduce lentamente. [^29] [^30] [^31]
 
 
 
@@ -51,4 +52,7 @@
 [^26]: Abonados de internet móvil por demanda. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/abonados-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-demanda/resource/3df620f6-deec-42a0-a6af). Accedido el 17 de Octubre de 2022. 
 [^27]:  Suscriptores de Internet Móvil de Cargo Fijo. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-cargo-fijo/resource/47d07e20-b257-4aaf). Accedido el 17 de Octubre de 2022.
 [^28]: [Número de accesos a internet móvil](data/internetmovil_accesos.csv) entre abonados y suscriptores por mes, desde enero de 2012 a junio de 2022. Elaborado desde [^26] y [^27].
+[^29]: [Número de suscriptores de internet móvil de cargo fijo por empresa y mes](data/internetmovil_cargofijo_suscriptores_por_empresa.csv) desde enero de 2012 a junio de 2022. Elaborado desde [^27] 
+[^30]: [Número de abonados de internet móvil de demanda por empresa y mes](data/iinternetmovil_demanda_abonados_por_empresa.csv) desde enero de 2012 a junio de 2022. Elaborado desde [^26] 
+[^31]: [Porcentaje de abonados y suscriptores de internet móvil de la empresa con mayor participación](data/internetmovil_participacion_empresa_lider.csv) entre enero de 2012 y junio de 2022. Elaborado desde [^26] [^27]
 
