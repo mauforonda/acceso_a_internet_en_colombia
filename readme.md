@@ -24,6 +24,11 @@
 - Si bien los abonados por demanda representan el 53.2% de los accesos a internet móvil, sólo utilizan 23.2% del tráfico. Mientras un abonado por demanda consume 2.9 GB en promedio durante un mes, un suscriptor por cargo fijo consume 11 GB, es decir 3.7 veces más. Esta diferencia se ha acortado desde hace 10 años, cuando un abonado consumía 101 MB y un suscriptor 1.4 GB, es decir 14.3 veces más. [^34]
 - Durante junio de 2022, la industria generó ingresos en promedio de 10,216 COP por abonado y 28,689 COP por suscriptor de cargo fijo, pero sólo 3.49 COP por megabyte de demanda y 2.6 COP por megabyte de cargo fijo. Es decir que, sólo considerando estas variables, los suscriptores de cargo fijo son usuarios más valiosos, pero la rentabilidad por megabyte es mayor entre abonados por demanda. [^37]
 
+## Encuesta nacional de calidad de vida
+
+- En 2021, 73.9% de las mujeres declaraban ingresar al menos una vez al año a internet, frente a 72% de los hombres. Esta diferencia es mayor entre los usuarios más frecuentes: 56.6% de las mujeres acceden todos los días de la semana, en comparación con 54.5% de los hombres. [^39]
+- El teléfono móvil es el dispositivo más común para acceder a internet y donde existe una mayor brecha entre personas de ambos sexos: 70.9% de las mujeres, frente a 68.6% de los hombres, acceden a internet mediante un teléfono móvil. [^40]
+
 
 
 [^1]: Accesos de Internet Fijo desde 2017-2T. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-e-ingresos-de-internet-fijo/resource/540ea080-bf16-4d63-911f-3b4814e8e4f1#{}). Accedido el 15 de Octubre de 2022. 
@@ -63,3 +68,6 @@
 [^35]: Ingresos de Internet Móvil por Demanda. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/abonados-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-demanda/resource/60a55889-ba71-45ff-b68f). Accedido el 17 de Octubre de 2022.
 [^36]: Ingresos de Internet Móvil de Cargo Fijo. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-cargo-fijo/resource/8366e39c-6a14-483a). Accedido el 17 de Octubre de 2022.
 [^37]: [Ingresos de internet móvil por demanda y cargo fijo en total, por acceso y por megabyte](data/internetmovil_ingresos.csv), por mes entre enero de 2012 y junio de 2022. Elaborado desde [^35] y [^36].
+[^38]: [Encuesta Nacional de Calidad de Vida - ECV 2021](https://microdatos.dane.gov.co/catalog/734/get_microdata). Un dataset construído por  el Departamento Administrativo Nacional de Estadística (DANE). Accedido el 18 de Octubre de 2022.
+[^39]: [Porcentaje de hombres y mujeres según su frecuencia de uso de internet](data/ecv21_sexo_internet_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^40]: [Porcentaje de hombres y mujeres que acceden a internet mediante distintos dispositivos](data/ecv21_sexo_internet_dispositivo.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
