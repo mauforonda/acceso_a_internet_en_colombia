@@ -143,8 +143,9 @@ Algunas de las diferencias más notorias:
 | mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Enviar o recibir correos electronicos                        |  35.7% |   55.7% |   49.4% | 37.5% |
 | mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Banca electrónica y otros servicios financieros              |   1.3% |   20.5% |   19.9% | 15.1% |
 | mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Obtener información                                          |  49.7% |   55.7% |   52.2% | 45.9% |
-| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No hay cobertura del servicio en la zona                     |   9.9% |   11.1% |    4.6% |  1.5% |
-
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No sabe usarlo                                               |  28.3% |   14.7% |   35.0% | 57.1% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | Es muy costoso                                               |  30.3% |   47.0% |   27.2% | 10.3% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No lo considera necesario                                    |  11.6% |   23.7% |   31.7% | 29.9% |
 
 
 ## Datos
