@@ -7,6 +7,7 @@
   - [Diferencias de acceso y uso de internet](#diferencias-de-acceso-y-uso-de-internet)
     - [Entre personas de diferentes sexos](#entre-personas-de-diferentes-sexos)
     - [Entre personas de diferentes regiones](#entre-personas-de-diferentes-regiones)
+    - [Entre personas de áreas urbanas y rurales](#entre-personas-de-áreas-urbanas-y-rurales)
 - [Datos](#datos)
 
 ## Reportes de proveedores de telecomunicaciones
@@ -48,7 +49,7 @@
 - Entre quienes no accedían a internet, las razones principales son que no saben usarlo, es muy costoso y no lo consideran necesario. Un porcentaje mayor de mujeres respecto a hombres no sabe usarlo y un porcentaje mayor de hombres no lo considera necesario. [^43]
 - La más grande entre estas diferencias es que 24.4% de los hombres que acceden a internet lo hacen desde sus trabajos, en comparación a 16.9% de las mujeres. Más que una brecha de acceso, estos datos sugieren diferencias de ocupación y comportamientos entre personas de distintos sexo.
 
-Diferencias más grandes:
+Algunas de las diferencias más notorias:
 
 | población                                 | pregunta                            | respuesta                                                     |   Hombre |   Mujer |
 |:------------------------------------------|:------------------------------------|:--------------------------------------------------------------|---------:|--------:|
@@ -71,6 +72,8 @@ Diferencias más grandes:
 - Entre quienes accedían a internet, más del 90% en todas las regiones accede mediante teléfono celular y sólo en Bogotá y San Andrés más del 30% logra acceder via computadora. En regiones con mayor acceso el uso tiende a ocurrir en el hogar propio y el trabajo, mientras que en regiones con más desventajas destaca el uso en una vivienda ajena. Si bien el uso de redes sociales es común entre personas de todas las regiones, servicios como correo electrónico, banca electrónica y consultar medios de información son populares sólo en regiones con altos niveles de acceso. [^45] [^46] [^47]
 - Entre quienes no accedían a internet, las razones principales son que no saben utilizarlo, que no lo considean necesario o que es muy costoso. Sólo en regiones de menor acceso destaca la falta de cobertura cerca de la vivienda, en particular en Orinoquía donde 19.9% de la población que no accede a internet responde con esta razón. [^48] 
 
+Algunas de las diferencias más notorias:
+
 | población                                 | pregunta                            | respuesta                                                                                           |   Antioquia |   Bogotá |   Caribe |   Central |   Oriental |   Orinoquía - amazonía |   Pacifica |   San Andrés |
 |:------------------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------------|------------:|---------:|---------:|----------:|-----------:|-----------------------:|-----------:|-------------:|
 | mayores a 5 años                          | con qué frecuencia utiliza internet | Todos los días de la semana                                                                         |       61.7% |    71.8% |    41.9% |     54.7% |      58.6% |                  35.9% |      32.0% |        69.2% |
@@ -91,6 +94,33 @@ Diferencias más grandes:
 | mayores a 5 años que no utilizan internet | por qué no utiliza                  | Es muy costoso                                                                                      |       25.9% |    26.2% |    32.2% |     21.1% |      22.4% |                  20.2% |      21.5% |        14.6% |
 | mayores a 5 años que no utilizan internet | por qué no utiliza                  | No lo considera necesario                                                                           |       21.7% |    27.5% |    22.6% |     27.2% |      30.2% |                  25.2% |      25.5% |        25.0% |
 | mayores a 5 años que no utilizan internet | por qué no utiliza                  | No hay cobertura del servicio en la zona                                                            |        5.1% |     2.5% |     7.0% |      3.9% |       2.9% |                  19.9% |       9.2% |         0.2% |
+
+#### Entre personas de áreas urbanas y rurales
+
+- 80% de las personas en el área urbana (*cabecera*) y 50.5% en el área rural acceden a internet al menos una vez al año. Esta brecha es mayor entre quienes acceden diariamente, con 64.9% en ciudades y 24.8% en el campo. [^49]
+- Entre quienes acceden a internet, un porcentaje mayor de la población en el área urbana respecto al área rural lo hace desde computadoras, en el trabajo y para utilizar servicios como correo y banca electrónica. [^50] [^51] [^52]
+- Entre quienes no acceden a internet, 12% en el área rural declara la falta de cobertura como la razón principal, frente a sólo 1% en el área urbana. [^53]
+
+Algunas de las diferencias más notorias:
+
+| población                                 | pregunta                            | respuesta                                       | Cabecera | Rural |
+| :---------------------------------------- | :---------------------------------- | :---------------------------------------------- | -------: | ----: |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | Todos los días de la semana                     |    64.9% | 24.8% |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | No utiliza internet                             |    20.2% | 49.5% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Teléfono celular                                |    95.5% | 96.0% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador de escritorio                        |    22.8% |  9.8% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador portatil                             |    27.7% |  9.9% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el hogar                                     |    95.7% | 84.8% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el trabajo                                   |    30.7% | 15.0% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En la institución educativa                     |     7.1% |  8.9% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En centros de acceso público gratis             |     3.7% |  4.8% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Redes sociales                                  |    82.6% | 80.8% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Enviar o recibir correos electronicos           |    51.7% | 22.9% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Banca electrónica y otros servicios financieros |    16.6% |  3.4% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Obtener información                             |    54.7% | 40.2% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No hay cobertura del servicio en la zona        |     1.0% | 12.3% |
+
+
 
 ## Datos
 
@@ -142,3 +172,8 @@ Diferencias más grandes:
 [^46]: [Distribución de respuestas a *en cuáles sitios accede a internet* entre la población de distintas regiones geográficas que acceden a internet](data/ecv21_internet_regiones_lugares.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^47]: [Distribución de respuestas a *para cuáles servicios o actividades utiliza internet* entre la población de distintas regiones geográficas que acceden a internet](data/ecv21_internet_regiones_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^48]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre la población de distintas regiones geográficas que no acceden a internet](data/ecv21_internet_regiones_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^49]: [Distribución de respuestas a *con qué frecuencia utiliza internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa)](data/ecv21_internet_area_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^50]: [Distribución de respuestas a *cuáles dispositivos utiliza para acceder a internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que acceden a internet](data/ecv21_internet_area_dispositivos.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^51]: [Distribución de respuestas a *en cuáles sitios accede a internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que acceden a internet](data/ecv21_internet_area_lugares.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^52]: [Distribución de respuestas a *para cuáles servicios o actividades utiliza internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que acceden a internet](data/ecv21_internet_area_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^53]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que no acceden a internet](data/ecv21_internet_area_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
