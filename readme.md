@@ -1,4 +1,6 @@
-## Internet fijo
+## Reportes de proveedores de telecomunicaciones
+
+### Internet fijo
 
 - Al final del segundo trimestre de 2022, existían 8,482,581 accesos a internet fijo en Colombia [^2]. 
 - En los últimos 5 años se suman 2,288,910 nuevos accesos, que representan un crecimiento del 37% [^3]. 
@@ -16,7 +18,7 @@
 - Los ingresos de empresas por internet fijo durante el segundo trimestre de 2022 suman 1.62 Trillones de pesos colombianos (COP), o 62% más de lo que representaban 5 años atrás en el segundo trimestre de 2017. El ingreso medio por acceso es 191,007 COP, que representa 18% más del ingreso medio 5 años atrás. [^21]
 - Entre 2018 y 2022, el número de municipios con internet fijo en más de 20% de los hogares crece de 195 a 295, mientras que el número con 5 a 20% se contrae de 476 a 374, y el número con menos de 5% se mantiene estable en 449 y 451 municipios respectivamente. Esta tendencia sugiere un avance importante en acceso a internet fijo dentro de municipios de tamaño intermedio, pero un estancamiento en municipios de menor penetración. [^22] [^25] 
 
-## Internet móvil
+### Internet móvil
 
 - En junio de 2022 existían 37,932,392 accesos a internet móvil, de los cuales 53.2% correspondían a abonados por demanda y el resto a suscriptores por cargo fijo. Esta distribución se mantiene estable desde 2017. [^28]
 - En los últimos 10 años, el número de accesos se ha multiplicado por 10 desde 3,720,527 en enero de 2012. Este crecimiento es lineal y mucho más variable entre abonados a internet por demanda. [^28]
@@ -26,10 +28,16 @@
 
 ## Encuesta nacional de calidad de vida
 
+### Brechas de género
+
+#### Diferencias de acceso y uso de internet
+
 - En 2021, 73.9% de las mujeres declaraban ingresar al menos una vez al año a internet, frente a 72% de los hombres. Esta diferencia es mayor entre los usuarios más frecuentes: 56.6% de las mujeres acceden todos los días de la semana, en comparación con 54.5% de los hombres. [^39]
 - 70.9% de las mujeres, frente a 68.6% de los hombres, acceden a internet mediante un teléfono móvil. [^40]
 - Más mujeres acceden a internet desde sus hogares (69.7% de las mujeres y 67.4% de los hombres) y más hombres desde el trabajo ( 16.9% de las mujeres y 24.4% de los hombres). Estas diferencias probablemente reflejan la distribución de ocupaciones por sexo en la población. [^41]
 - Más mujeres utilizan internet para acceder a redes sociales (61.6% de las mujeres frente a 58.6% de los hombres) y más hombres lo utilizan para descargar juegos, música, software o jugar en línea (11.9% de las mujeres frente a 14.6% de los hombres). [^42]
+
+- Las razones principales entre quienes no utilizan internet son que no saben utilizarlo, que es muy costoso y que no lo consideran necesario. Más mujeres declaran no saber utilizarlo (39% de las mujeres que no acceden a internet frente a 35.% de los hombres) y más hombres no lo consideran necesario (24% de las mujeres que no acceden a internet frente a 27% de los hombres). [^43]
 
 
 
@@ -75,3 +83,4 @@
 [^40]: [Porcentaje de hombres y mujeres que acceden a internet mediante distintos dispositivos](data/ecv21_sexo_internet_dispositivo.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^41]: [Porcentaje de hombres y mujeres que acceden a internet en distintos lugares](data/ecv21_sexo_internet_lugar.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^42]: [Porcentaje de hombres y mujeres que acceden a internet para distintas actividades](data/ecv21_sexo_internet_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^43]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre hombres y mujeres que no acceden a internet](data/ecv21_sexo_internet_razon_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
