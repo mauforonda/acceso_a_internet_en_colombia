@@ -1,16 +1,16 @@
 ,Hombre,Mujer,mujer_menos_hombre
-Redes sociales,0.585811385007427,0.6160278545648723,0.03021646955744528
-Educación y aprendizaje,0.2248534156061811,0.2342349565985433,0.009381540992362186
-Obtener información,0.3792213055776822,0.3854944716088512,0.0062731660311690085
-"Buscar trabajo (inscribirse en una plataforma, aplicación o convocatoria de empleo)",0.0011623832035786916,0.0018300630271764113,0.0006676798235977198
-"Servicios en la nube (guardar información, editar archivos, etc.)",0.04492629162995719,0.0437301424618442,-0.0011961491681129893
-Trabajar,0.02046323558051314,0.01925059233053092,-0.0012126432499822218
-Enviar o recibir correos electronicos,0.3447206695132485,0.3423604798415556,-0.0023601896716928805
-Vender productos o servicios,0.06270343686820821,0.059566480570606976,-0.0031369562976012386
-"Trámites con entidades del gobierno (nacional, departamental o municipal)",0.0555389423711935,0.05050224069487217,-0.00503670167632133
-Comprar/ordenar productos o servicios,0.09607690358441137,0.08827449866883318,-0.0078024049155781955
-"Consulta de medios de comunicación (televisión, radio, periódicos, revistas, medios digitales, etc)",0.12719583505845072,0.11907004971113903,-0.00812578534731169
-"Televisión, videos, películas u otro contenido audiovisual para entretenimiento",0.2113320762289412,0.20232461543432262,-0.009007460794618588
-Banca electrónica y otros servicios financieros,0.11330023824146848,0.09915848564781975,-0.014141752593648735
-Otro,0.10878904760460135,0.08760716152958649,-0.021181886075014866
-"Descargar software, imágenes, juegos, música o jugar en línea",0.14648976631211819,0.11951573042268426,-0.026974035889433923
+Redes sociales,0.58581,0.61603,0.03022
+Educación y aprendizaje,0.22485,0.23423,0.00938
+Obtener información,0.37922,0.38549,0.00627
+"Buscar trabajo (inscribirse en una plataforma, aplicación o convocatoria de empleo)",0.00116,0.00183,0.00067
+"Servicios en la nube (guardar información, editar archivos, etc.)",0.04493,0.04373,-0.00120
+Trabajar,0.02046,0.01925,-0.00121
+Enviar o recibir correos electronicos,0.34472,0.34236,-0.00236
+Vender productos o servicios,0.06270,0.05957,-0.00314
+"Trámites con entidades del gobierno (nacional, departamental o municipal)",0.05554,0.05050,-0.00504
+Comprar/ordenar productos o servicios,0.09608,0.08827,-0.00780
+"Consulta de medios de comunicación (televisión, radio, periódicos, revistas, medios digitales, etc)",0.12720,0.11907,-0.00813
+"Televisión, videos, películas u otro contenido audiovisual para entretenimiento",0.21133,0.20232,-0.00901
+Banca electrónica y otros servicios financieros,0.11330,0.09916,-0.01414
+Otro,0.10879,0.08761,-0.02118
+"Descargar software, imágenes, juegos, música o jugar en línea",0.14649,0.11952,-0.02697
