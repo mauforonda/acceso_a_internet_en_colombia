@@ -8,6 +8,7 @@
     - [Entre personas de diferentes sexos](#entre-personas-de-diferentes-sexos)
     - [Entre personas de diferentes regiones](#entre-personas-de-diferentes-regiones)
     - [Entre personas de áreas urbanas y rurales](#entre-personas-de-áreas-urbanas-y-rurales)
+    - [Entre personas en distintos rangos de edad](#entre-personas-en-distintos-rangos-de-edad)
 - [Datos](#datos)
 
 ## Reportes de proveedores de telecomunicaciones
@@ -120,6 +121,30 @@ Algunas de las diferencias más notorias:
 | mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Obtener información                             |    54.7% | 40.2% |
 | mayores a 5 años que no utilizan internet | por qué no utiliza                  | No hay cobertura del servicio en la zona        |     1.0% | 12.3% |
 
+#### Entre personas en distintos rangos de edad
+
+- En 2021, sólo 30% de la población mayor de 60 años accedía a internet diariamente y 40% al menos una vez al año, en comparación con 69% y 85% respectivamente en la población entre 20 y 39 años. [^54]
+- Entre quienes acceden a internet, personas mayores de 60 años tienden menos a usar computadoras y más a ingresar sólo desde su hogar. Personas menores a 20 años utilizan el internet para educación y menos para actividades profesionales. Personas entre 20 y 60 años muestran una mayor diversidad de actividades y se diferencian de otros rangos por usos profesionales como correos electrónicos y obtener información. [^55] [^56] [^57]
+- Entre quienes no acceden a internet y tienen más de 60 años, la razón principal es que no saben utilizarlo. El costo es la razón más importante para personas entre 20 y 40 años. [^58]
+
+| población                                 | pregunta                            | respuesta                                                    |  5-19 | 20-39 | 40-59 |
+| :---------------------------------------- | :---------------------------------- | :----------------------------------------------------------- | ----: | ----: | ----: |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | Todos los días de la semana                                  | 52.2% | 69.4% | 56.4% |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | No utiliza internet                                          | 21.0% | 15.1% | 28.8% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Teléfono celular                                             | 87.5% | 98.7% | 98.9% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador de escritorio                                     | 23.0% | 21.0% | 19.5% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador portatil                                          | 23.4% | 29.2% | 22.6% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el hogar                                                  | 91.2% | 93.9% | 96.0% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el trabajo                                                |  2.8% | 40.2% | 41.2% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En la institución educativa                                  | 19.8% |  3.9% |  1.2% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En la vivienda de otra persona (pariente, amigo/a, vecino/a) | 10.2% | 11.0% |  7.7% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Educación y aprendizaje                                      | 65.9% | 22.6% | 13.6% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Redes sociales                                               | 57.6% | 94.0% | 91.2% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Enviar o recibir correos electronicos                        | 35.7% | 55.7% | 49.4% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Banca electrónica y otros servicios financieros              |  1.3% | 20.5% | 19.9% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Obtener información                                          | 49.7% | 55.7% | 52.2% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No hay cobertura del servicio en la zona                     |  9.9% | 11.1% |  4.6% |
+
 
 
 ## Datos
@@ -177,3 +202,8 @@ Algunas de las diferencias más notorias:
 [^51]: [Distribución de respuestas a *en cuáles sitios accede a internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que acceden a internet](data/ecv21_internet_area_lugares.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^52]: [Distribución de respuestas a *para cuáles servicios o actividades utiliza internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que acceden a internet](data/ecv21_internet_area_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^53]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre la población del área urbana (cabecera) y rural (centros poblados, inspección de policía o corregimientos, área rural dispersa) que no acceden a internet](data/ecv21_internet_area_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^54]: [Distribución de respuestas a *con qué frecuencia utiliza internet* entre la población de distintos rangos de edad](data/ecv21_internet_edad_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^55]: [Distribución de respuestas a *cuáles dispositivos utiliza para acceder a internet* entre la población de distintos rangos de edad que accede a internet](data/ecv21_internet_edad_dispositivos.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^56]: [Distribución de respuestas a *en cuáles sitios accede a internet* entre la población de distintos rangos de edad que accede a internet](data/ecv21_internet_edad_lugares.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^57]: [Distribución de respuestas a *para cuáles servicios o actividades utiliza internet* entre la población de distintos rangos de edad que accede a internet](data/ecv21_internet_edad_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^58]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre la población de distintos rangos de edad que no acceden a internet](data/ecv21_internet_edad_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
