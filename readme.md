@@ -1,3 +1,13 @@
+## Contenidos
+
+- [Reportes de proveedores de telecomunicaciones](#reportes-de-proveedores-de-telecomunicaciones)
+  - [Internet fijo](#internet-fijo)
+  - [Internet móvil](#internet-móvil)
+- [Encuesta nacional de calidad de vida](#encuesta-nacional-de-calidad-de-vida)
+  - [Diferencias de acceso y uso de internet](#diferencias-de-acceso-y-uso-de-internet)
+    - [Entre personas de diferentes sexos](#entre-personas-de-diferentes-sexos)
+- [Datos](#datos)
+
 ## Reportes de proveedores de telecomunicaciones
 
 ### Internet fijo
@@ -28,18 +38,35 @@
 
 ## Encuesta nacional de calidad de vida
 
-### Brechas de género
+### Diferencias de acceso y uso de internet
 
-#### Diferencias de acceso y uso de internet
+#### Entre personas de diferentes sexos
 
-- En 2021, 73.9% de las mujeres declaraban ingresar al menos una vez al año a internet, frente a 72% de los hombres. Esta diferencia es mayor entre los usuarios más frecuentes: 56.6% de las mujeres acceden todos los días de la semana, en comparación con 54.5% de los hombres. [^39]
-- 70.9% de las mujeres, frente a 68.6% de los hombres, acceden a internet mediante un teléfono móvil. [^40]
-- Más mujeres acceden a internet desde sus hogares (69.7% de las mujeres y 67.4% de los hombres) y más hombres desde el trabajo ( 16.9% de las mujeres y 24.4% de los hombres). Estas diferencias probablemente reflejan la distribución de ocupaciones por sexo en la población. [^41]
-- Más mujeres utilizan internet para acceder a redes sociales (61.6% de las mujeres frente a 58.6% de los hombres) y más hombres lo utilizan para descargar juegos, música, software o jugar en línea (11.9% de las mujeres frente a 14.6% de los hombres). [^42]
+- En 2021, 73.9% de las mujeres declaraban ingresar al menos una vez al año a internet, frente a 72% de los hombres. Esta diferencia es mayor entre los usuarios más frecuentes. [^39]
+- Entre quienes accedían a internet, un porcentaje mayor de mujeres respecto a hombres ingresa mediante un teléfono móvil, desde sus hogares y para utilizar redes sociales. Por otro lado, un porcentaje mayor de hombres ingresa mediante consolas de juego, desde su trabajo y para descargar y jugar en línea. [^40] [^41] [^42]
+- Entre quienes no accedían a internet, las razones principales son que no saben usarlo, es muy costoso y no lo consideran necesario. Un porcentaje mayor de mujeres respecto a hombres no sabe usarlo y un porcentaje mayor de hombres no lo considera necesario. [^43]
+- La más grande entre estas diferencias es que 24.4% de los hombres que acceden a internet lo hacen desde sus trabajos, en comparación a 16.9% de las mujeres. Más que una brecha de acceso, estos datos sugieren diferencias de ocupación y comportamientos entre personas de distintos sexo.
 
-- Las razones principales entre quienes no utilizan internet son que no saben utilizarlo, que es muy costoso y que no lo consideran necesario. Más mujeres declaran no saber utilizarlo (39% de las mujeres que no acceden a internet frente a 35.% de los hombres) y más hombres no lo consideran necesario (24% de las mujeres que no acceden a internet frente a 27% de los hombres). [^43]
+Diferencias más grandes:
+
+| población                                 | pregunta                            | respuesta                                                    | Hombre | Mujer |
+| :---------------------------------------- | :---------------------------------- | :----------------------------------------------------------- | -----: | ----: |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | Todos los días de la semana                                  |  54.5% | 56.6% |
+| mayores a 5 años                          | con qué frecuencia utiliza internet | No utiliza internet                                          |  27.9% | 26.1% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Teléfono celular                                             |  68.6% | 70.9% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador de escritorio                                     |  15.3% | 14.9% |
+| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Consolas para juegos electrónicos                            |   1.2% |  0.4% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el hogar                                                  |  67.4% | 69.7% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En desplazamiento de un sitio a otro                         |  11.0% |  9.0% |
+| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el trabajo                                                |  24.4% | 16.9% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Redes sociales                                               |  58.6% | 61.6% |
+| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Descargar software, imágenes, juegos, música o jugar en línea |  14.6% | 12.0% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No sabe usarlo                                               |  35.6% | 39.0% |
+| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No lo considera necesario                                    |  27.0% | 24.0% |
 
 
+
+## Datos
 
 [^1]: Accesos de Internet Fijo desde 2017-2T. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-e-ingresos-de-internet-fijo/resource/540ea080-bf16-4d63-911f-3b4814e8e4f1#{}). Accedido el 15 de Octubre de 2022. 
 [^2]: [Número de accesos de internet fijo por trimestre](data/internetfijo_accesos.csv) del 2do trimestre de 2017 al 2do trimestre de 2022. Elaborado desde [^1]
@@ -79,8 +106,8 @@
 [^36]: Ingresos de Internet Móvil de Cargo Fijo. Un dataset construído por la Comisión de Regulación de Comunicaciones y publicado en [postdata.gov.co](https://postdata.gov.co/dataset/suscriptores-ingresos-y-tr%C3%A1fico-de-internet-m%C3%B3vil-por-cargo-fijo/resource/8366e39c-6a14-483a). Accedido el 17 de Octubre de 2022.
 [^37]: [Ingresos de internet móvil por demanda y cargo fijo en total, por acceso y por megabyte](data/internetmovil_ingresos.csv), por mes entre enero de 2012 y junio de 2022. Elaborado desde [^35] y [^36].
 [^38]: [Encuesta Nacional de Calidad de Vida - ECV 2021](https://microdatos.dane.gov.co/catalog/734/get_microdata). Un dataset construído por  el Departamento Administrativo Nacional de Estadística (DANE). Accedido el 18 de Octubre de 2022.
-[^39]: [Porcentaje de hombres y mujeres según su frecuencia de uso de internet](data/ecv21_sexo_internet_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
-[^40]: [Porcentaje de hombres y mujeres que acceden a internet mediante distintos dispositivos](data/ecv21_sexo_internet_dispositivo.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
-[^41]: [Porcentaje de hombres y mujeres que acceden a internet en distintos lugares](data/ecv21_sexo_internet_lugar.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
-[^42]: [Porcentaje de hombres y mujeres que acceden a internet para distintas actividades](data/ecv21_sexo_internet_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^39]: [Distribución de respuestas a *con qué frecuencia utiliza internet* entre hombres y mujeres](data/ecv21_sexo_internet_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^40]: [Distribución de respuestas a *cuáles dispositivos utiliza para acceder a internet* entre hombres y mujeres que acceden a internet](data/ecv21_sexo_internet_dispositivo.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^41]: [Distribución de respuestas a *en cuáles sitios accede a internet* entre hombres y mujeres que acceden a internet](data/ecv21_sexo_internet_lugar.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^42]: [Distribución de respuestas a *para cuáles servicios o actividades utiliza internet* entre hombres y mujeres que acceden a internet](data/ecv21_sexo_internet_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^43]: [Distribución de respuestas a *cuál es la razón principal por la que no utiliza internet* entre hombres y mujeres que no acceden a internet](data/ecv21_sexo_internet_razon_noacceso.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].

@@ -1,6 +1,6 @@
-P1084,Hombre,Mujer
-Todos los días de la semana,0.54548,0.56587
-"Al menos una vez a la semana, pero no cada día",0.15948,0.15716
-"Al menos una vez al mes, pero no cada semana",0.01338,0.01313
-"Al menos una vez al año, pero no cada mes",0.00263,0.00292
-No utiliza internet,0.27903,0.26092
+P1084,Hombre,Mujer,Mujer_menos_Hombre
+Todos los días de la semana,0.54548,0.56587,0.02039
+"Al menos una vez al año, pero no cada mes",0.00263,0.00292,0.00029
+"Al menos una vez al mes, pero no cada semana",0.01338,0.01313,-0.00025
+"Al menos una vez a la semana, pero no cada día",0.15948,0.15716,-0.00231
+No utiliza internet,0.27903,0.26092,-0.01811
