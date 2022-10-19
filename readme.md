@@ -6,6 +6,7 @@
 - [Encuesta nacional de calidad de vida](#encuesta-nacional-de-calidad-de-vida)
   - [Diferencias de acceso y uso de internet](#diferencias-de-acceso-y-uso-de-internet)
     - [Entre personas de diferentes sexos](#entre-personas-de-diferentes-sexos)
+    - [Entre personas de diferentes regiones](#entre-personas-de-diferentes-regiones)
 - [Datos](#datos)
 
 ## Reportes de proveedores de telecomunicaciones
