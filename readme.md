@@ -27,7 +27,9 @@
 ## Encuesta nacional de calidad de vida
 
 - En 2021, 73.9% de las mujeres declaraban ingresar al menos una vez al año a internet, frente a 72% de los hombres. Esta diferencia es mayor entre los usuarios más frecuentes: 56.6% de las mujeres acceden todos los días de la semana, en comparación con 54.5% de los hombres. [^39]
-- El teléfono móvil es el dispositivo más común para acceder a internet y donde existe una mayor brecha entre personas de ambos sexos: 70.9% de las mujeres, frente a 68.6% de los hombres, acceden a internet mediante un teléfono móvil. [^40]
+- 70.9% de las mujeres, frente a 68.6% de los hombres, acceden a internet mediante un teléfono móvil. [^40]
+- Más mujeres acceden a internet desde sus hogares (69.7% de las mujeres y 67.4% de los hombres) y más hombres desde el trabajo ( 16.9% de las mujeres y 24.4% de los hombres). Estas diferencias probablemente reflejan la distribución de ocupaciones por sexo en la población. [^41]
+- Más mujeres utilizan internet para acceder a redes sociales (61.6% de las mujeres frente a 58.6% de los hombres) y más hombres lo utilizan para descargar juegos, música, software o jugar en línea (11.9% de las mujeres frente a 14.6% de los hombres). [^42]
 
 
 
@@ -71,3 +73,5 @@
 [^38]: [Encuesta Nacional de Calidad de Vida - ECV 2021](https://microdatos.dane.gov.co/catalog/734/get_microdata). Un dataset construído por  el Departamento Administrativo Nacional de Estadística (DANE). Accedido el 18 de Octubre de 2022.
 [^39]: [Porcentaje de hombres y mujeres según su frecuencia de uso de internet](data/ecv21_sexo_internet_frecuencia.csv) en base a una clasificación de 5 opciones. Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
 [^40]: [Porcentaje de hombres y mujeres que acceden a internet mediante distintos dispositivos](data/ecv21_sexo_internet_dispositivo.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^41]: [Porcentaje de hombres y mujeres que acceden a internet en distintos lugares](data/ecv21_sexo_internet_lugar.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
+[^42]: [Porcentaje de hombres y mujeres que acceden a internet para distintas actividades](data/ecv21_sexo_internet_actividades.csv). Corresponde a respuestas de personas mayores a 5 años durante la Encuesta Nacional de Calidad de Vida en 2021 [^38].
