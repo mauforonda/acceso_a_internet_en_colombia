@@ -158,23 +158,22 @@ Algunas de las diferencias más notorias:
 
 Algunas de las diferencias más notorias:
 
-| población                                 | pregunta                            | respuesta                                       | Ninguno | Preescolar o Basica Primaria | Secundaria | Media o Superior |
-| :---------------------------------------- | :---------------------------------- | :---------------------------------------------- | ------: | ---------------------------: | ---------: | ---------------: |
-| mayores a 5 años                          | con qué frecuencia utiliza internet | Todos los días de la semana                     |    5.6% |                        23.2% |      45.3% |            75.5% |
-| mayores a 5 años                          | con qué frecuencia utiliza internet | No utiliza internet                             |   90.9% |                        61.5% |      32.7% |            11.0% |
-| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Teléfono celular                                |   95.8% |                        99.2% |      98.6% |            98.7% |
-| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador de escritorio                        |    0.6% |                         2.1% |       4.7% |            24.7% |
-| mayores a 5 años que utilizan internet    | cuáles dispositivos utiliza         | Computador portatil                             |    1.9% |                         1.3% |       3.1% |            30.1% |
-| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el hogar                                     |   91.5% |                        92.9% |      93.3% |            95.7% |
-| mayores a 5 años que utilizan internet    | en cuáles sitios accede             | En el trabajo                                   |   16.3% |                        22.9% |      26.3% |            44.2% |
-| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Redes sociales                                  |   88.0% |                        91.6% |      92.4% |            92.0% |
-| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Enviar o recibir correos electronicos           |   15.2% |                        18.0% |      27.0% |            59.2% |
-| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Banca electrónica y otros servicios financieros |    1.6% |                         2.5% |       3.8% |            25.2% |
-| mayores a 5 años que utilizan internet    | para cuáles servicios o actividades | Obtener información                             |   30.6% |                        36.1% |      40.5% |            56.9% |
-| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No sabe usarlo                                  |   63.8% |                        45.7% |      25.9% |            17.1% |
-| mayores a 5 años que no utilizan internet | por qué no utiliza                  | Es muy costoso                                  |   11.5% |                        19.8% |      33.3% |            39.3% |
-| mayores a 5 años que no utilizan internet | por qué no utiliza                  | No lo considera necesario                       |   18.6% |                        29.2% |      32.4% |            34.9% |
-
+| población                                     | pregunta                            | respuesta                                       |   Ninguno |   Preescolar o Basica Primaria |   Secundaria |   Media o Superior |
+|:----------------------------------------------|:------------------------------------|:------------------------------------------------|----------:|-------------------------------:|-------------:|-------------------:|
+| de 21 años o mayores                          | con qué frecuencia utiliza internet | Todos los días de la semana                     |      5.6% |                          23.2% |        45.3% |              75.5% |
+| de 21 años o mayores                          | con qué frecuencia utiliza internet | No utiliza internet                             |     90.9% |                          61.5% |        32.7% |              11.0% |
+| de 21 años o mayores que utilizan internet    | cuáles dispositivos utiliza         | Teléfono celular                                |     95.8% |                          99.2% |        98.6% |              98.7% |
+| de 21 años o mayores que utilizan internet    | cuáles dispositivos utiliza         | Computador de escritorio                        |      0.6% |                           2.1% |         4.7% |              24.7% |
+| de 21 años o mayores que utilizan internet    | cuáles dispositivos utiliza         | Computador portatil                             |      1.9% |                           1.3% |         3.1% |              30.1% |
+| de 21 años o mayores que utilizan internet    | en cuáles sitios accede             | En el hogar                                     |     91.5% |                          92.9% |        93.3% |              95.7% |
+| de 21 años o mayores que utilizan internet    | en cuáles sitios accede             | En el trabajo                                   |     16.3% |                          22.9% |        26.3% |              44.2% |
+| de 21 años o mayores que utilizan internet    | para cuáles servicios o actividades | Redes sociales                                  |     88.0% |                          91.6% |        92.4% |              92.0% |
+| de 21 años o mayores que utilizan internet    | para cuáles servicios o actividades | Enviar o recibir correos electronicos           |     15.2% |                          18.0% |        27.0% |              59.2% |
+| de 21 años o mayores que utilizan internet    | para cuáles servicios o actividades | Banca electrónica y otros servicios financieros |      1.6% |                           2.5% |         3.8% |              25.2% |
+| de 21 años o mayores que utilizan internet    | para cuáles servicios o actividades | Obtener información                             |     30.6% |                          36.1% |        40.5% |              56.9% |
+| de 21 años o mayores que no utilizan internet | por qué no utiliza                  | No sabe usarlo                                  |     63.8% |                          45.7% |        25.9% |              17.1% |
+| de 21 años o mayores que no utilizan internet | por qué no utiliza                  | Es muy costoso                                  |     11.5% |                          19.8% |        33.3% |              39.3% |
+| de 21 años o mayores que no utilizan internet | por qué no utiliza                  | No lo considera necesario                       |     18.6% |                          29.2% |        32.4% |              34.9% |
 
 
 ## Datos
